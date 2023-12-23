@@ -1,0 +1,11 @@
+body{
+    background-color: aquamarine;
+    font-family: serif;
+}
+
+.firstpg h1{
+    text-align: center;
+    color: rgb(228, 23, 217);
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
